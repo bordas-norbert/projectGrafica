@@ -1,0 +1,11 @@
+F:\NORBI\grafica_project_grupa\graficaProject\graficaProject\obj\Debug\graficaProject.csproj.AssemblyReference.cache
+F:\NORBI\grafica_project_grupa\graficaProject\graficaProject\obj\Debug\graficaProject.csproj.SuggestedBindingRedirects.cache
+F:\NORBI\grafica_project_grupa\graficaProject\graficaProject\obj\Debug\graficaProject.Properties.Resources.resources
+F:\NORBI\grafica_project_grupa\graficaProject\graficaProject\obj\Debug\graficaProject.csproj.GenerateResource.cache
+F:\NORBI\grafica_project_grupa\graficaProject\graficaProject\obj\Debug\graficaProject.csproj.CoreCompileInputs.cache
+F:\NORBI\grafica_project_grupa\graficaProject\graficaProject\bin\Debug\graficaProject.exe.config
+F:\NORBI\grafica_project_grupa\graficaProject\graficaProject\bin\Debug\graficaProject.exe
+F:\NORBI\grafica_project_grupa\graficaProject\graficaProject\bin\Debug\graficaProject.pdb
+F:\NORBI\grafica_project_grupa\graficaProject\graficaProject\obj\Debug\graficaProject.Form1.resources
+F:\NORBI\grafica_project_grupa\graficaProject\graficaProject\obj\Debug\graficaProject.exe
+F:\NORBI\grafica_project_grupa\graficaProject\graficaProject\obj\Debug\graficaProject.pdb
